@@ -1,4 +1,4 @@
-lib
-main.py
-beltdb.xlsx
-.idea
+/main.py
+/beltdb.xlsx
+/.idea/
+/lib/
